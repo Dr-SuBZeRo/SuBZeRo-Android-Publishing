@@ -1,0 +1,24 @@
+app_name: MargiQ
+developer: SuBZeRo
+repository: https://github.com/Dr-SuBZeRo/MargiQ
+package_id: "TO_BE_VERIFIED"
+status: first_candidate_audit_required
+priority: 1
+distribution:
+  google_play: planned
+  fdroid: eligibility_review_required
+  github_releases: existing_upstream_review_required
+  izzyondroid: eligibility_review_required
+  obtainium: compatibility_review_required
+  samsung_galaxy_store: optional
+  huawei_appgallery: optional
+  uptodown: optional
+release:
+  version_name: "TO_BE_VERIFIED"
+  version_code: null
+  min_sdk: null
+  target_sdk: null
+  signing_fingerprints: []
+notes:
+  - Verify package ID, version and signing certificate before submission.
+  - This registry entry is not evidence of store approval.
