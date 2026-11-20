@@ -1,0 +1,24 @@
+app_name: ClinicQ
+developer: SuBZeRo
+repository: https://github.com/Dr-SuBZeRo/ClinicQ
+package_id: "TO_BE_VERIFIED"
+status: planned
+priority: 5
+distribution:
+  google_play: planned
+  fdroid: eligibility_review_required
+  github_releases: upstream_review_required
+  izzyondroid: eligibility_review_required
+  obtainium: compatibility_review_required
+  samsung_galaxy_store: optional
+  huawei_appgallery: optional
+  uptodown: optional
+release:
+  version_name: "TO_BE_VERIFIED"
+  version_code: null
+  min_sdk: null
+  target_sdk: null
+  signing_fingerprints: []
+notes:
+  - Perform heightened privacy, security and patient-data handling review before release.
+  - Verify data protection, backup and recovery behaviour.
