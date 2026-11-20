@@ -1,0 +1,23 @@
+app_name: StockQ
+developer: SuBZeRo
+repository: https://github.com/Dr-SuBZeRo/StockQ
+package_id: "TO_BE_VERIFIED"
+status: planned
+priority: 4
+distribution:
+  google_play: planned
+  fdroid: eligibility_review_required
+  github_releases: upstream_review_required
+  izzyondroid: eligibility_review_required
+  obtainium: compatibility_review_required
+  samsung_galaxy_store: optional
+  huawei_appgallery: optional
+  uptodown: optional
+release:
+  version_name: "TO_BE_VERIFIED"
+  version_code: null
+  min_sdk: null
+  target_sdk: null
+  signing_fingerprints: []
+notes:
+  - Verify production implementation and store compliance before scheduling.
